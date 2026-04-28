@@ -1,2 +1,2 @@
 # Source
-[Sawa](https://github.com/lantip/sawa)
+[Sawa by Lantip](https://github.com/lantip/sawa)
